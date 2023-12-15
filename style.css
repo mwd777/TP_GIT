@@ -1,3 +1,4 @@
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -19,6 +20,45 @@ section {
   padding: 15px;
   border: 1px solid black;
   border-radius: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  margin: 20px;
+}
+
+section {
+
+  background-color: #f0f0f0;
+  margin-bottom: 30px;
+  padding: 15px;
+  border: 1px solid black;
+
+  margin-bottom: 30px;
+  padding: 15px;
+  border: 1px solid black;
+  border-style: dotted;
 }
 
 h2 {
