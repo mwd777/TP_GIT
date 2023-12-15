@@ -1,3 +1,3 @@
-Merwane DIFALLAH
-Aymeric TRAN
-Julien KHALIFA
+- Merwane DIFALLAH
+- Aymeric TRAN
+- Julien KHALIFA
